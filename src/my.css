@@ -1,0 +1,11 @@
+html, body, #root{
+    background-color: black;
+    color:white;
+    height: 100%;
+}
+h4{
+    color:red;
+}
+ li{
+    color: gray;
+}
